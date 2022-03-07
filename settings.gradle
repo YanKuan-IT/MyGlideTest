@@ -1,0 +1,3 @@
+rootProject.name = "MyGlideTest"
+include ':app'
+include ':mytest1'
